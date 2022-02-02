@@ -35,3 +35,7 @@ h1{
 .size-image{
     width: 700px;
 }
+/* add border to our images */
+.size-image2{
+    border: 10px solid greenyellow;
+}
