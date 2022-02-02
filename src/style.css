@@ -5,6 +5,12 @@ h2{
 p{
     color: blueviolet;
 }
+/* use css class to style the elements */
 .css-class{
     color: brown;
+}
+/* style multiple elements with css class */
+.text{
+    color:cornflowerblue;
+    font-size: 10Px;
 }
