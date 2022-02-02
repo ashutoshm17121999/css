@@ -23,3 +23,7 @@ h1{
     color: crimson;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+/* import a google font */
+#font-1{
+    font-family: lobster;
+}
