@@ -27,3 +27,7 @@ h1{
 #font-1{
     font-family: lobster;
 }
+/* specify how font should degrade */
+#font-2{
+    font-family: lobster, monospace;
+}
