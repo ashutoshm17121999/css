@@ -39,3 +39,9 @@ h1{
 .size-image2{
     border: 10px solid greenyellow;
 }
+/* add rounded corners to your border radius */
+.size-image3{
+    border: 10px solid greenyellow;
+    border-radius: 50%;
+}
+}
