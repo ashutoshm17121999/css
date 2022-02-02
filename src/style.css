@@ -16,6 +16,10 @@ p{
 }
 /* change the font size of the element */
 h2{
-    font-size: 50px;
+    font-size: 20px;
 }
-/*  */
+/* set the font family of the element */
+h1{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
