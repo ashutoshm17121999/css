@@ -1,3 +1,7 @@
 h2{
     color:rgb(255, 73, 7)
 }
+/* use css selectors to style elements */
+p{
+    color: blueviolet;
+}
