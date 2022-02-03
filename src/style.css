@@ -316,3 +316,9 @@ h1{
   body{
       background-color: indianred;
   }
+  /*  ingerit style from the b ody element*/
+ .h-1 {
+      background-color: white;
+    color: green;
+    font-family: monospace;
+  }
