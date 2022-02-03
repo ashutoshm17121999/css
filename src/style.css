@@ -155,4 +155,35 @@ h1{
     padding: 20px;
     margin: -15px;
   }
+  /* add diferent padding on each side of the element */
+  .injected-text {
+  margin-bottom: -25px;
+  text-align: center;
+  margin-right: 0%;
+}
 
+.box {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
+  margin-right:15% ;
+}
+
+.yellow-box {
+  background-color: yellow;
+  padding: 10px;
+  margin-right: 80%;
+}
+
+.red-box2 {
+  background-color: crimson;
+  color: #fff;
+  padding: 20px;
+}
+
+.blue-box2 {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+}
