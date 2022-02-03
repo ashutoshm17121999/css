@@ -44,4 +44,8 @@ h1{
     border: 10px solid greenyellow;
     border-radius: 50%;
 }
+/* make circular image with border radius */
+.size-image4{
+    border: 10px solid greenyellow;
+    border-radius: 50%;
 }
