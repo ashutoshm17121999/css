@@ -322,3 +322,7 @@ h1{
     color: green;
     font-family: monospace;
   }
+  /* prioritize your style over another */
+  .pink-text{
+      color: pink;
+  }
