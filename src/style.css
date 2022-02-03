@@ -1129,3 +1129,13 @@ body {
   .penguin * {
     position: absolute;
   }
+  /* improve compatibility with browser fallbacks */
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+
+    background: var(--red-color,red);
+    height: 200px;
+    width:200px;
+  }
