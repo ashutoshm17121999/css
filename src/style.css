@@ -357,4 +357,8 @@ h1{
   }
   .blue-text {
     color: blue;
-  }  
+  } 
+   /* override all other styles by using important*/
+   .important-text{
+       color: pink !important;
+   }
