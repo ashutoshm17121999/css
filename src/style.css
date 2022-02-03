@@ -57,4 +57,7 @@ h1{
 #c-1{
     font-size: 15%;
 }
-/*  */
+/* use an id attribute to style an element */
+#c-2{
+    color: black;
+}
