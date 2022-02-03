@@ -362,3 +362,7 @@ h1{
    .important-text{
        color: pink !important;
    }
+/* use hex code for specific colors */
+body {
+    background-color:#000000 ;
+  }
