@@ -65,18 +65,21 @@ h1{
 .injected-text {
     margin-bottom: -25px;
     text-align: center;
+    margin-right: 0%;
   }
 
   .box {
     border-style: solid;
     border-color: black;
-    border-width: 5px;
+    border-width: 2px;
     text-align: center;
+    margin-right:15% ;
   }
 
   .yellow-box {
     background-color: yellow;
     padding: 10px;
+    margin-right: 80%;
   }
 
   .red-box {
@@ -88,6 +91,6 @@ h1{
   .blue-box {
     background-color: blue;
     color: #fff;
-    padding: 10px;
+    padding: 20px;
   }
 }
