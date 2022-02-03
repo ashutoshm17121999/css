@@ -280,3 +280,7 @@ h1{
     color: #fff;
     margin: 20px 40px 20px 40px;
   }
+  /* use attribute selectors to style elements */
+  [type='radio'] {
+    margin: 20px 0px 20px 10px;
+  }
