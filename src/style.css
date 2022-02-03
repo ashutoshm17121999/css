@@ -284,3 +284,31 @@ h1{
   [type='radio'] {
     margin: 20px 0px 20px 10px; 
   }
+  /* udestand absolute versus relative units   */
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+
+  .yellow-box6 {
+    background-color: yellow;
+    padding: 20px 40px 20px 40px;
+  }
+
+  .red-box6 {
+    background-color: red;
+    margin: 20px 40px 20px 40px;
+    padding: 1.5em;
+  }
+
+  .green-box6 {
+    background-color: green;
+    margin: 20px 40px 20px 40px;
+  }
