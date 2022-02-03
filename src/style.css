@@ -339,3 +339,7 @@ h1{
   .blue-text{
     color: blue;
   }
+  /* ovveride class declarartion by styling id attributes*/
+  #orange-text{
+      color: orange;
+  }
