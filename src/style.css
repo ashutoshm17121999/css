@@ -53,3 +53,8 @@ h1{
 .silver{
     background-color: silver;
 }
+/* set an id of an element  */
+#c-1{
+    font-size: 15%;
+}
+/*  */
