@@ -343,3 +343,18 @@ h1{
   #orange-text{
       color: orange;
   }
+  /* ovveride class declarartion with inline styles */
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  #orange-text {
+    color: orange;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+    color: blue;
+  }  
