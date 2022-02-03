@@ -94,3 +94,39 @@ h1{
     padding: 20px;
   }
 }
+/* adjust the margin of an element */
+.injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+    margin-right: 0%;
+  }
+
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    margin-right:15% ;
+  }
+
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 80%;
+  }
+
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px;
+    margin :20px;
+  }
+
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    margin :20px;
+  }
+}
+/*  */
