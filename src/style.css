@@ -379,3 +379,16 @@ body {
   .orange-text {
     color: #FFA500;
   }
+  /* use abbreviated code */
+  .red-text {
+    color: #F00;
+  }
+  .fuchsia-text {
+    color: #F0F;
+  }
+  .cyan-text {
+    color: #0FF;
+  }
+  .green-text {
+    color: #0F0;
+  }
